@@ -54,7 +54,7 @@ page = st.sidebar.radio(
 
 st.sidebar.divider()
 st.sidebar.caption("Network Traffic Monitoring and Detection System")
-st.sidebar.caption("Module 6Z0019 | MMU")
+st.sidebar.caption("Module 6Z0019 | MMU | 23646711 | Sheikh Ibraheem Rahim")
 
 
 # Home Page
